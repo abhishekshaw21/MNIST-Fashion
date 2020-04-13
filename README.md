@@ -1,7 +1,7 @@
 # MNIST-Fashion
-Multi-Layer Perceptron for Cloth Classification
-Dataset​:​ Fashion MNIST Dataset. 
-: https://github.com/zalandoresearch/fashion-mnist
+Multi-Layer Perceptron for Cloth Classification \
+Fashion MNIST Dataset. \
+https://github.com/zalandoresearch/fashion-mnist
 Trained Neural Network using TensorFlow
 
 ## Model
